@@ -20,4 +20,4 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuratah&layout=compact&langs_count=7&theme=apprentice"/>
 
 </div>
-
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
