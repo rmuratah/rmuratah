@@ -1,6 +1,7 @@
 # Olá Bem Vindo ao meu perfil, sou o Rafael Murata!!! 🚀
 Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
 
+# Habilidades
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +20,7 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
 <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuratah&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
+
 Contate-se comigo 🤝
 <p align="left">
   <a href="mailto:rahmurata12@gmail.com" alt="Gmail">
