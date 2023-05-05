@@ -20,4 +20,4 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuratah&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
 # Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:vtorresdantas7@gmail.com)
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">(mailto:vtorresdantas7@gmail.com)
