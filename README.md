@@ -19,3 +19,4 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
 <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuratah&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
+![snake gif](https://github.com/rmuratah/rmuratah/blob/output/github-contribution-grid-snake.svg)
