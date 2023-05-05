@@ -19,6 +19,11 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
 <div align="center">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmuratah&layout=compact&langs_count=7&theme=apprentice"/>
 </div>
-# Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-[<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">]
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">(mailto:vtorresdantas7@gmail.com)
+Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rahmurata12@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-murata-9760b1243/" /></a>
+</p>  
