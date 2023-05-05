@@ -21,7 +21,7 @@ Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
 </div>
 Contate-se comigo<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="mailto:rahmurata12@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:rahmurata12@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/rafael-murata-9760b1243/" alt="Linkedin">
