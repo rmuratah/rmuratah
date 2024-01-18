@@ -1,5 +1,5 @@
 # Olá Bem Vindo ao meu perfil, sou o Rafael Murata!!! 🚀
-Desenvolvedor Web e estudante de Sistemas de Informação na FIAP (5/8)
+Engenheiro de software e estudante de Sistemas de Informação na FIAP (5/8)
 
 # Habilidades
 <div align="center">
